@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "864669987106",
+    "project_id": "hellofire-d7946",
+    "storage_bucket": "hellofire-d7946.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864669987106:android:00f10178ef0057f689f57b",
+        "android_client_info": {
+          "package_name": "com.example.fire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLVC_3_2NpFemKrydBbMEQZ47-xUo65C4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
